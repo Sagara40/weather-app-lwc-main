@@ -1,2 +1,2 @@
-# weather-app-lwc-main
-weather-app-lwc-main
+# weather-app-lwc
+To implement LWC and Integration Concepts
